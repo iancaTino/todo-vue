@@ -1,38 +1,38 @@
-# todo-vue
+# 📝 Todo-Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicação simples de **lista de tarefas (To-Do List)** desenvolvida com **Vue 3 e Vite**.  
+Este é meu **primeiro projeto prático utilizando Vue.js**, criado com foco em aprendizado, organização de componentes e entendimento do funcionamento do framework.
 
-## Recommended IDE Setup
+🔗 **Projeto online:**  
+https://todo-vue-beta-peach.vercel.app/
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📌 Sobre o projeto
 
-## Recommended Browser Setup
+O **Todo-Vue** foi desenvolvido como parte do meu processo de estudo em Vue.js.  
+O objetivo principal foi compreender a estrutura de um projeto Vue, trabalhar com componentes e aplicar conceitos básicos de reatividade.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+Apesar de ser um projeto simples, ele representa um passo importante na minha evolução como desenvolvedora front-end.
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🚀 Tecnologias utilizadas
 
-## Project Setup
+- **Vue.js 3**
+- **Vite**
+- **JavaScript**
+- **CSS**
+- **Node.js / npm**
 
-```sh
-npm install
-```
+---
 
-### Compile and Hot-Reload for Development
+## 🧩 Funcionalidades
 
-```sh
-npm run dev
-```
+- Adicionar tarefas
+- Listar tarefas
+- Estrutura baseada em componentes Vue
 
-### Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+## 📁 Estrutura do projeto
+
